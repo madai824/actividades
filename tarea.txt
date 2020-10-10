@@ -1,0 +1,2 @@
+crear un vector que dermine al usuario y le permita ingrsra solo numeros de 0 hasta 10
+pasra el contenido de un vector entero a otro vector por datos por el usuario el vector que sea de tamaño 5
